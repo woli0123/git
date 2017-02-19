@@ -1,0 +1,99 @@
+body{
+	margin: 5px 0;
+	padding:0;
+	font:74% Arial, Sans-Serif;
+	background: #F0F0F0;
+}
+#content{
+	margin: 15px auto;
+	width:791px;
+	-webkit-box-shadow:;
+	-moz-box-shadow:; 
+}
+#header{
+	padding: 0 15px; 
+}
+	.lside{
+		float: left;
+		width: 174px;
+		height: 129px;
+		background: #FFB424;
+		color: #FFFFFF;
+		text-align:center;
+		line-height:0.9em;
+	}
+	.logo{
+		padding:27px 0;
+	}
+	.rside{
+		float: right;
+		width: 587px;
+		height: 129px;
+		color: #FFFFFF;
+		background:#125E81 url(header.jpg);
+		line-height:1.7em;
+	}
+	.citation{
+		text-align:right;
+		padding:50px 25px 0px 5px;
+	}
+#header h2{
+	letter-spacing:1px;
+}
+#main{
+	padding:0 15px;
+}
+.leftmenu{
+	float:left;
+	margin:0;
+	padding:0;
+	width:174px;
+	height: 556px;
+	background:#FFF url(leftbg.jpg) repeat-x; 
+}
+.nav{
+	
+	clear:both;
+}
+.nav li{
+	font-weight:bold;
+	margin:0 0 8px 0px;
+	list-style-type:none;
+	border-bottom:1px solid #ccc;
+}
+ul{
+	padding: 5px 15px;
+}
+.nav li a{
+	color: #546078;
+	text-decoration:none;
+}
+.nav li a:hover { color: #F29900; text-decoration: none;  }
+.padding{
+	padding:0 14px;
+}
+h2{
+	line-height:0.4em;
+	margin:10px 0 10px 0;
+}
+input.searchbutton{
+	border:0px;
+	background:#FFFFFF;
+}
+a{
+	text-decoration:none;
+}
+.center{
+	float:right;
+	width: 557px;
+	padding:0 15px;
+	background: #FFF;
+}
+#footer{
+	background:#FFF;
+	clear:both;
+	text-align:center;
+	padding:10px 0;
+	margin: 0 15px;
+}
+.img { background: #FFF; float: left; padding: 1px; margin: 5px 8px 5px 0; color: #333; border: 1px solid #e0e0e0; }
